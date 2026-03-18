@@ -1,5 +1,4 @@
 {
-  "version": 2,
   "functions": {
     "scan.js":   { "maxDuration": 60 },
     "detail.js": { "maxDuration": 30 }
